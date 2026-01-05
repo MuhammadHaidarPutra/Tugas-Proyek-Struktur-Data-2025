@@ -1,0 +1,53 @@
+NIK         Nama        Tempat Lahir   Tanggal Lahir   Jenis Kelamin   Alamat         RT/RW   Kel/Desa   Kecamatan   Agama   Status Perkawinan   Pekerjaan   Kewarganegaraan
+2400018202  Aziz        Jakarta        01-01-1990      Laki-laki       Jl. Mawar 1     001/002 Cempaka    Menteng     Islam   Belum Kawin         Admin       WNI
+2400018209  Haidar      Bandung        02-02-1991      Laki-laki       Jl. Melati 2    003/004 Melati     Sukajadi    Islam   Belum Kawin         Admin       WNI
+2400018201  Budi        Surabaya       03-03-1992      Laki-laki       Jl. Kenanga 3   005/006 Kenanga    Gubeng      Islam   Belum Kawin         Designer    WNI
+2400018202  Siti        Semarang       04-04-1993      Perempuan       Jl. Dahlia 4    007/008 Dahlia     Banyumanik   Islam   Belum Kawin         Analyst     WNI
+2400018203  Andi        Medan          05-05-1994      Laki-laki       Jl. Anggrek 5   009/010 Anggrek    Medan Baru   Islam   Belum Kawin         Officer     WNI
+2400018204  Dewi        Yogyakarta     06-06-1995      Perempuan       Jl. Flamboyan 6 011/012 Flamboyan  Umbulharjo   Islam   Belum Kawin         Manager     WNI
+2400018205  Rudi        Malang         07-07-1996      Laki-laki       Jl. Mawar 7     013/014 Mawar      Klojen      Islam   Belum Kawin         Developer   WNI
+2400018206  Lina        Solo           08-08-1997      Perempuan       Jl. Melati 8    015/016 Melati     Laweyan      Islam   Belum Kawin         Designer    WNI
+2400018207  Tono        Bogor          09-09-1998      Laki-laki       Jl. Kenanga 9   017/018 Kenanga    Bogor Utara  Islam   Belum Kawin         Analyst     WNI
+2400018278  Rina        Palembang      10-10-1999      Perempuan       Jl. Dahlia 10   019/020 Dahlia     Ilir Barat   Islam   Belum Kawin         Officer     WNI
+2400018269  Eko         Makassar       11-11-2000      Laki-laki       Jl. Anggrek 11  021/022 Anggrek    Panakkukang  Islam   Belum Kawin         Manager     WNI
+2400018210  Wati        Padang         12-12-2001      Perempuan       Jl. Flamboyan 12 023/024 Flamboyan Padang Barat Islam   Belum Kawin         Developer   WNI
+2400018211  Farhan12    Bandung        11-11-2000      Laki-laki       Jl. Mawar 11    021/022 Mawar      Sukajadi    Islam   Belum Kawin         Designer    WNI
+2400018212  Dina13      Surabaya       12-12-2001      Perempuan       Jl. Melati 12   023/024 Melati     Gubeng      Islam   Belum Kawin         Analyst     WNI
+2400018213  Riza14      Medan          13-01-2002      Laki-laki       Jl. Kenanga 13  025/026 Kenanga    Medan Baru   Islam   Belum Kawin         Officer     WNI
+2400018214  Sinta15     Yogyakarta     14-02-2003      Perempuan       Jl. Dahlia 14   027/028 Dahlia     Banyumanik   Islam   Belum Kawin         Manager     WNI
+2400018215  Agung16     Malang         15-03-2004      Laki-laki       Jl. Anggrek 15  029/030 Anggrek    Klojen      Islam   Belum Kawin         Developer   WNI
+2400018216  Mila17      Solo           16-04-2005      Perempuan       Jl. Flamboyan 16 031/032 Flamboyan Umbulharjo   Islam   Belum Kawin         Designer    WNI
+2400018217  Fajar18     Bogor          17-05-2006      Laki-laki       Jl. Mawar 17    033/034 Mawar      Bogor Utara  Islam   Belum Kawin         Analyst     WNI
+2400018218  Yuli19      Palembang      18-06-2007      Perempuan       Jl. Melati 18   035/036 Melati     Laweyan      Islam   Belum Kawin         Officer     WNI
+2400018219  Reza20      Makassar       19-07-2008      Laki-laki       Jl. Kenanga 19  037/038 Kenanga    Panakkukang  Islam   Belum Kawin         Manager     WNI
+2400018220  Nia21       Padang         20-08-2009      Perempuan       Jl. Dahlia 20   039/040 Dahlia     Padang Barat Islam   Belum Kawin         Developer   WNI
+2400018221  Bambang22   Bandung        21-09-2010      Laki-laki       Jl. Mawar 21    041/042 Mawar      Sukajadi    Islam   Belum Kawin         Designer    WNI
+2400018222  Putri23     Surabaya       22-10-2011      Perempuan       Jl. Melati 22   043/044 Melati     Gubeng      Islam   Belum Kawin         Analyst     WNI
+2400018223  Hari24      Medan          23-11-2012      Laki-laki       Jl. Kenanga 23  045/046 Kenanga    Medan Baru   Islam   Belum Kawin         Officer     WNI
+2400018224  Ulia25      Yogyakarta     24-12-2013      Perempuan       Jl. Dahlia 24   047/048 Dahlia     Banyumanik   Islam   Belum Kawin         Manager     WNI
+2400018225  Dedi26      Malang         25-01-2014      Laki-laki       Jl. Anggrek 25  049/050 Anggrek    Klojen      Islam   Belum Kawin         Developer   WNI
+2400018226  Rini27      Solo           26-02-2015      Perempuan       Jl. Flamboyan 26 051/052 Flamboyan Umbulharjo   Islam   Belum Kawin         Designer    WNI
+2400018227  Eko28       Bogor          27-03-2016      Laki-laki       Jl. Mawar 27    053/054 Mawar      Bogor Utara  Islam   Belum Kawin         Analyst     WNI
+2400018228  Wati29      Palembang      28-04-2017      Perempuan       Jl. Melati 28   055/056 Melati     Laweyan      Islam   Belum Kawin         Officer     WNI
+2400018229  Tono30      Makassar       29-05-2018      Laki-laki       Jl. Kenanga 29  057/058 Kenanga    Panakkukang  Islam   Belum Kawin         Manager     WNI
+2400018230  Lina31      Padang         30-06-2019      Perempuan       Jl. Dahlia 30   059/060 Dahlia     Padang Barat Islam   Belum Kawin         Developer   WNI
+2400018231  Andi32      Bandung        31-07-2020      Laki-laki       Jl. Mawar 31    061/062 Mawar      Sukajadi    Islam   Belum Kawin         Designer    WNI
+2400018232  Maya33      Surabaya       01-08-2021      Perempuan       Jl. Melati 32   063/064 Melati     Gubeng      Islam   Belum Kawin         Analyst     WNI
+2400018233  Yudi34      Medan          02-09-2022      Laki-laki       Jl. Kenanga 33  065/066 Kenanga    Medan Baru   Islam   Belum Kawin         Officer     WNI
+2400018234  Sari35      Yogyakarta     03-10-2023      Perempuan       Jl. Dahlia 34   067/068 Dahlia     Banyumanik   Islam   Belum Kawin         Manager     WNI
+2400018235  Udin36      Malang         04-11-2024      Laki-laki       Jl. Anggrek 35  069/070 Anggrek    Klojen      Islam   Belum Kawin         Developer   WNI
+2400018236  Lani37      Solo           05-12-2025      Perempuan       Jl. Flamboyan 36 071/072 Flamboyan Umbulharjo   Islam   Belum Kawin         Designer    WNI
+2400018237  Rudi38      Bogor          06-01-2026      Laki-laki       Jl. Mawar 37    073/074 Mawar      Bogor Utara  Islam   Belum Kawin         Analyst     WNI
+2400018238  Fitri39     Palembang      07-02-2027      Perempuan       Jl. Melati 38   075/076 Melati     Laweyan      Islam   Belum Kawin         Officer     WNI
+2400018239  Isna40      Makassar       08-03-2028      Laki-laki       Jl. Kenanga 39  077/078 Kenanga    Panakkukang  Islam   Belum Kawin         Manager     WNI
+2400018240  Agus41      Padang         09-04-2029      Perempuan       Jl. Dahlia 40   079/080 Dahlia     Padang Barat Islam   Belum Kawin         Developer   WNI
+2400018241  Rina42      Bandung        10-05-2030      Laki-laki       Jl. Mawar 41    081/082 Mawar      Sukajadi    Islam   Belum Kawin         Designer    WNI
+2400018242  Wawan43     Surabaya       11-06-2031      Perempuan       Jl. Melati 42   083/084 Melati     Gubeng      Islam   Belum Kawin         Analyst     WNI
+2400018243  Lusi44      Medan          12-07-2032      Laki-laki       Jl. Kenanga 43  085/086 Kenanga    Medan Baru   Islam   Belum Kawin         Officer     WNI
+2400018244  Ilham45     Yogyakarta     13-08-2033      Perempuan       Jl. Dahlia 44   087/088 Dahlia     Banyumanik   Islam   Belum Kawin         Manager     WNI
+2400018245  Rita46      Malang         14-09-2034      Laki-laki       Jl. Anggrek 45  089/090 Anggrek    Klojen      Islam   Belum Kawin         Developer   WNI
+2400018246  Bayu47      Solo           15-10-2035      Perempuan       Jl. Flamboyan 46 091/092 Flamboyan Umbulharjo   Islam   Belum Kawin         Designer    WNI
+2400018247  Siska48     Bogor          16-11-2036      Laki-laki       Jl. Mawar 47    093/094 Mawar      Bogor Utara  Islam   Belum Kawin         Analyst     WNI
+2400018248  Iman49      Palembang      17-12-2037      Perempuan       Jl. Melati 48   095/096 Melati     Laweyan      Islam   Belum Kawin         Officer     WNI
+2400018249  Nanda50     Makassar       18-01-2038      Laki-laki       Jl. Kenanga 49  097/098 Kenanga    Panakkukang  Islam   Belum Kawin         Manager     WNI
+2400018250  Yosef51     Padang         19-02-2039      Perempuan       Jl. Dahlia 50   099/100 Dahlia     Padang Barat Islam   Belum Kawin         Developer   WNI
