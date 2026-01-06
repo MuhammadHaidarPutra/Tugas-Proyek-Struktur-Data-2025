@@ -122,7 +122,7 @@
                 }
             }
 
-            // Opsi: hapus saldo untuk karyawan yang sudah tidak ada dapat ditambahkan jika diperlukan
+            
         }
 
 
