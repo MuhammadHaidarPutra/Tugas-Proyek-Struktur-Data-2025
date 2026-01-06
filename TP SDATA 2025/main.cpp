@@ -165,7 +165,7 @@ int login(KTPManager& manager, string& namaLogin, string& roleLogin, int& idKary
         return 4;
     }
 
-    cout << "\nMasukkan username (Nama Lengkap): "; getline(cin, nama);
+    cout << "\nMasukkan username (Nama): "; getline(cin, nama);
     cout << "Masukkan password (NIK): "; getline(cin, nik);
     nama = trim(nama);
     nik = trim(nik);
@@ -212,56 +212,67 @@ int login(KTPManager& manager, string& namaLogin, string& roleLogin, int& idKary
 int main() {
     // Inisialisasi ManajemenKaryawan
     ManajemenKaryawan mk;
-    mk.tambahKaryawanStatis(1, "Budi", "Direktur", "Design");
-    mk.tambahKaryawanStatis(2, "Siti", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(3, "Andi", "Officer", "Operations");
-    mk.tambahKaryawanStatis(4, "Dewi", "Manager", "Management");
-    mk.tambahKaryawanStatis(5, "Rudi", "Developer", "IT");
-    mk.tambahKaryawanStatis(6, "Lina", "Designer", "Design");
-    mk.tambahKaryawanStatis(7, "Tono", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(8, "Rina", "Officer", "Operations");
-    mk.tambahKaryawanStatis(9, "Eko", "Manager", "Management");
-    mk.tambahKaryawanStatis(10, "Wati", "Developer", "IT");
-    mk.tambahKaryawanStatis(11, "Farhan12", "Designer", "Design");
-    mk.tambahKaryawanStatis(12, "Dina13", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(13, "Riza14", "Officer", "Operations");
-    mk.tambahKaryawanStatis(14, "Sinta15", "Manager", "Management");
-    mk.tambahKaryawanStatis(15, "Agung16", "Developer", "IT");
-    mk.tambahKaryawanStatis(16, "Mila17", "Designer", "Design");
-    mk.tambahKaryawanStatis(17, "Fajar18", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(18, "Yuli19", "Officer", "Operations");
-    mk.tambahKaryawanStatis(19, "Reza20", "Manager", "Management");
-    mk.tambahKaryawanStatis(20, "Nia21", "Developer", "IT");
-    mk.tambahKaryawanStatis(21, "Bambang22", "Designer", "Design");
-    mk.tambahKaryawanStatis(22, "Putri23", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(23, "Hari24", "Officer", "Operations");
-    mk.tambahKaryawanStatis(24, "Ulia25", "Manager", "Management");
-    mk.tambahKaryawanStatis(25, "Dedi26", "Developer", "IT");
-    mk.tambahKaryawanStatis(26, "Rini27", "Designer", "Design");
-    mk.tambahKaryawanStatis(27, "Eko28", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(28, "Wati29", "Officer", "Operations");
-    mk.tambahKaryawanStatis(29, "Tono30", "Manager", "Management");
-    mk.tambahKaryawanStatis(30, "Lina31", "Developer", "IT");
-    mk.tambahKaryawanStatis(31, "Andi32", "Designer", "Design");
-    mk.tambahKaryawanStatis(32, "Maya33", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(33, "Yudi34", "Officer", "Operations");
-    mk.tambahKaryawanStatis(34, "Sari35", "Manager", "Management");
-    mk.tambahKaryawanStatis(35, "Udin36", "Developer", "IT");
-    mk.tambahKaryawanStatis(36, "Lani37", "Designer", "Design");
-    mk.tambahKaryawanStatis(37, "Rudi38", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(38, "Fitri39", "Officer", "Operations");
-    mk.tambahKaryawanStatis(39, "Isna40", "Manager", "Management");
-    mk.tambahKaryawanStatis(40, "Agus41", "Developer", "IT");
-    mk.tambahKaryawanStatis(41, "Rina42", "Designer", "Design");
-    mk.tambahKaryawanStatis(42, "Wawan43", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(43, "Lusi44", "Officer", "Operations");
-    mk.tambahKaryawanStatis(44, "Ilham45", "Manager", "Management");
-    mk.tambahKaryawanStatis(45, "Rita46", "Developer", "IT");
-    mk.tambahKaryawanStatis(46, "Bayu47", "Designer", "Design");
-    mk.tambahKaryawanStatis(47, "Siska48", "Analyst", "Analysis");
-    mk.tambahKaryawanStatis(48, "Iman49", "Officer", "Operations");
-    mk.tambahKaryawanStatis(49, "Nanda50", "Manager", "Management");
-    mk.tambahKaryawanStatis(50, "Yosef51", "Developer", "IT");
+
+mk.tambahKaryawanStatis(4,  "Dewi",     "Manager", "Management");
+mk.tambahKaryawanStatis(9,  "Eko",      "Manager", "Management");
+mk.tambahKaryawanStatis(14, "Sinta15",  "Manager", "Management");
+mk.tambahKaryawanStatis(19, "Reza20",   "Manager", "Management");
+mk.tambahKaryawanStatis(24, "Ulia25",   "Manager", "Management");
+mk.tambahKaryawanStatis(29, "Tono30",   "Manager", "Management");
+mk.tambahKaryawanStatis(34, "Sari35",   "Manager", "Management");
+mk.tambahKaryawanStatis(39, "Isna40",   "Manager", "Management");
+mk.tambahKaryawanStatis(44, "Ilham45",  "Manager", "Management");
+mk.tambahKaryawanStatis(49, "Nanda50",  "Manager", "Management");
+
+
+mk.tambahKaryawanStatis(2,  "Siti",     "Analyst", "Analysis");
+mk.tambahKaryawanStatis(7,  "Tono",     "Analyst", "Analysis");
+mk.tambahKaryawanStatis(12, "Dina13",   "Analyst", "Analysis");
+mk.tambahKaryawanStatis(17, "Fajar18",  "Analyst", "Analysis");
+mk.tambahKaryawanStatis(22, "Putri23",  "Analyst", "Analysis");
+mk.tambahKaryawanStatis(27, "Eko28",    "Analyst", "Analysis");
+mk.tambahKaryawanStatis(32, "Maya33",   "Analyst", "Analysis");
+mk.tambahKaryawanStatis(37, "Rudi38",   "Analyst", "Analysis");
+mk.tambahKaryawanStatis(42, "Wawan43",  "Analyst", "Analysis");
+mk.tambahKaryawanStatis(47, "Siska48",  "Analyst", "Analysis");
+
+
+mk.tambahKaryawanStatis(3,  "Andi",     "Officer", "Operations");
+mk.tambahKaryawanStatis(8,  "Rina",     "Officer", "Operations");
+mk.tambahKaryawanStatis(13, "Riza14",   "Officer", "Operations");
+mk.tambahKaryawanStatis(18, "Yuli19",   "Officer", "Operations");
+mk.tambahKaryawanStatis(23, "Hari24",   "Officer", "Operations");
+mk.tambahKaryawanStatis(28, "Wati29",   "Officer", "Operations");
+mk.tambahKaryawanStatis(33, "Yudi34",   "Officer", "Operations");
+mk.tambahKaryawanStatis(38, "Fitri39",  "Officer", "Operations");
+mk.tambahKaryawanStatis(43, "Lusi44",   "Officer", "Operations");
+mk.tambahKaryawanStatis(48, "Iman49",   "Officer", "Operations");
+
+
+mk.tambahKaryawanStatis(5,  "Rudi",     "Developer", "IT");
+mk.tambahKaryawanStatis(10, "Wati",     "Developer", "IT");
+mk.tambahKaryawanStatis(15, "Agung16",  "Developer", "IT");
+mk.tambahKaryawanStatis(20, "Nia21",    "Developer", "IT");
+mk.tambahKaryawanStatis(25, "Dedi26",   "Developer", "IT");
+mk.tambahKaryawanStatis(30, "Lina31",   "Developer", "IT");
+mk.tambahKaryawanStatis(35, "Udin36",   "Developer", "IT");
+mk.tambahKaryawanStatis(40, "Agus41",   "Developer", "IT");
+mk.tambahKaryawanStatis(45, "Rita46",   "Developer", "IT");
+mk.tambahKaryawanStatis(50, "Yosef51",  "Developer", "IT");
+
+
+mk.tambahKaryawanStatis(1,  "Budi",     "Direktur", "Design"); 
+
+mk.tambahKaryawanStatis(6,  "Lina",     "Designer", "Design");
+mk.tambahKaryawanStatis(11, "Farhan12", "Designer", "Design");
+mk.tambahKaryawanStatis(16, "Mila17",   "Designer", "Design");
+mk.tambahKaryawanStatis(21, "Bambang22","Designer", "Design");
+mk.tambahKaryawanStatis(26, "Rini27",   "Designer", "Design");
+mk.tambahKaryawanStatis(31, "Andi32",   "Designer", "Design");
+mk.tambahKaryawanStatis(36, "Lani37",   "Designer", "Design");
+mk.tambahKaryawanStatis(41, "Rina42",   "Designer", "Design");
+mk.tambahKaryawanStatis(46, "Bayu47",   "Designer", "Design");
+
 
     // Inisialisasi fitur baru
     Laporan laporan;
